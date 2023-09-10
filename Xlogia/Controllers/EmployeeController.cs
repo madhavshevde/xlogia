@@ -11,7 +11,6 @@ namespace Xlogia.Controllers
     public class EmployeeController : Controller
     {
         private IEmployeeRepository _repository;
-        public int PageSize = 4;
         public EmployeeController(IEmployeeRepository repository)
         {
             _repository = repository;
