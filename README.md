@@ -5,7 +5,7 @@ The Solution contains 3 projects
 
 To run the project just change Xlogia=>web.config
 Change connection string => EFDbContext 
-<add name="EFDbContext" connectionString="Data Source=LAPTOP-L4CRCC5J;Initial Catalog=XLogia;User ID=sa;Password=Madhav@123!!!" providerName="System.Data.SqlClient" />
+<add name="EFDbContext" connectionString="Data Source=LAPTOP-L4CRCC5J;Initial Catalog=XLogia;User ID=sa;Password=Test@123" providerName="System.Data.SqlClient" />
 
 just point DataSource to a sql server instance, with sa credentials, and database and schema will be 
 created out of the box for you.
