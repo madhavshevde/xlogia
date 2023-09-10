@@ -1,0 +1,12 @@
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\Xlogia.Domain.dll.config
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\Xlogia.Domain.dll
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\Xlogia.Domain.pdb
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\EntityFramework.dll
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\EntityFramework.xml
+C:\Madhav\Xlogia\Xlogia.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Madhav\Xlogia\Xlogia.Domain\obj\Debug\Xlogia.Domain.csprojAssemblyReference.cache
+C:\Madhav\Xlogia\Xlogia.Domain\obj\Debug\Xlogia.Domain.csproj.CoreCompileInputs.cache
+C:\Madhav\Xlogia\Xlogia.Domain\obj\Debug\Xlogia.Domain.csproj.CopyComplete
+C:\Madhav\Xlogia\Xlogia.Domain\obj\Debug\Xlogia.Domain.dll
+C:\Madhav\Xlogia\Xlogia.Domain\obj\Debug\Xlogia.Domain.pdb
